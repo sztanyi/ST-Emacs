@@ -1,0 +1,5 @@
+# Emacs learning website
+https://emacsgifs.github.io/about/
+
+# Awesome Emacs, a community driven list of useful Emacs packages, utilities and libraries:
+https://github.com/emacs-tw/awesome-emacs
